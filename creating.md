@@ -27,4 +27,4 @@ int my_array[2][4];
 
 Pretty easy right? 
 
-### ✅ Now lets get started on **Initialising** an array 😎 Continue [here](creating.md)!
+### ✅ Now lets get started on **Initialising** an array 😎 Continue [here](initialising.md)!
