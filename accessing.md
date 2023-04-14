@@ -67,3 +67,6 @@ int my_num = my_array[0][1];
 ```
 This creates an integer variable called `my_num`, and assigns it the value of whatever element is stored at `my_array[0][1]`.
 
+Pretty easy right? 
+
+### ✅ Now lets get started on **Editing** an element 😎 Continue [here](editing.md)!
